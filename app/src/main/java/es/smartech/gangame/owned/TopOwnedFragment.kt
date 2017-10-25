@@ -1,11 +1,10 @@
-package es.smartech.gangame.deals
-
+package es.smartech.gangame.owned
 
 import es.smartech.commons.BaseFragment
 import es.smartech.gangame.R
 
-class DealsFragment : BaseFragment() {
+class TopOwnedFragment : BaseFragment() {
     override fun getLayoutResId(): Int {
-        return R.layout.fragment_deals
+        return R.layout.fragment_top_owned
     }
 }
