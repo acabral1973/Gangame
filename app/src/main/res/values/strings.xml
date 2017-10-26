@@ -1,6 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Gangame</string>
-    <string name="title_toprated">Top Rated</string>
-    <string name="title_most_owned">Most Owned</string>
-    <string name="title_deals">Deals</string>
+    <string name="title_toprated">"TOP RATED"</string>
+    <string name="title_most_owned">"MOST OWNED"</string>
+    <string name="title_deals">"DEALS"</string>
 </resources>
