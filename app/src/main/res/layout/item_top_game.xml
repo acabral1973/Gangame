@@ -78,6 +78,8 @@
             android:textSize="12sp"
             android:textStyle="bold"
             tools:text="1234567890"
+            android:drawableLeft="@drawable/ic_owners"
+            android:drawablePadding="4dp"
             app:layout_constraintLeft_toRightOf="@+id/labelSteam"
             android:layout_marginLeft="8dp"
             app:layout_constraintBaseline_toBaselineOf="@+id/labelSteam" />
@@ -90,6 +92,8 @@
             android:textSize="12sp"
             android:textStyle="bold"
             tools:text="55"
+            android:drawableLeft="@drawable/ic_steam_rating"
+            android:drawablePadding="4dp"
             android:layout_marginLeft="0dp"
             app:layout_constraintLeft_toLeftOf="@+id/labelPublisher"
             android:layout_marginTop="16dp"
